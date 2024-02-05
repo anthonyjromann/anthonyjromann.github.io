@@ -1,7 +1,7 @@
 title: Anthony J Roman # your name (or website title) here
 logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my portfolio! I'm a proud alumnus of Temple University, where I earned a Bachelor of Science in Data Science, with a concentration in Genomics and Bioinformatics, alongside a degree in Computer Science. My academic journey has fueled my passion for machine learning and artificial intelligence, cloud-based solutions, and the transformative potential of technology in medicine. Through my projects and research, I aim to contribute to the advancement of healthcare, making it more efficient, accessible, and personalized. Dive into my work and explore how I'm leveraging data and technology to drive forward the future of medicine. 
+  <p> Welcome to my portfolio! I'm a proud alumnus of Temple University, where I earned a Bachelor of Science in Data Science, with a concentration in Genomics and Bioinformatics, alongside a degree in Computer Science. My academic journey has fueled my passion for machine learning and artificial intelligence, cloud-based solutions, and the transformative potential of technology in medicine. Through my projects and research, I aim to contribute to the advancement of healthcare, making it more efficient, accessible, and personalized. Dive into my work and explore how I'm leveraging data and technology to drive forward the future of medicine. </p> 
   <br><br>
   <a href="https://www.linkedin.com/in/anthony-joseph-roman/">View My LinkedIn Profile</a> 
   
