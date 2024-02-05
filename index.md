@@ -2,7 +2,7 @@
 
 ---
 [SmartSpeech]([/sample_page](https://github.com/anthonyjromann/project-smartspeech))
-<img src="images/smartspeech?raw=true"/>
+<img src="images/smartspeech.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
