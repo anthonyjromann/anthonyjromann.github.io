@@ -1,7 +1,7 @@
 ## Featured Projects
 
 ---
-[SmartSpeech]([/sample_page](https://github.com/anthonyjromann/project-smartspeech))
+[SmartSpeech](https://github.com/anthonyjromann/project-smartspeech)
 <img src="images/smartspeech-new.png?raw=true"/>
 
 ---
