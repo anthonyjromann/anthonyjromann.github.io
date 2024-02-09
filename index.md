@@ -5,10 +5,8 @@
 <img src="images/smartspeech-new.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tic-Tac-Tech](https://anthonyjromann.github.io/Tic-Tac-Tech/)
+<img src="images/tic-tac-tech.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
